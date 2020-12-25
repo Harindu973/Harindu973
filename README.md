@@ -6,7 +6,7 @@
     <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Harindu973&title_color=333&text_color=777" alt="Harindu's Stats" >
   </a>
 </p>
-<br /><br />
+<br />
 <p align="center">
   <a href="https://www.linkedin.com/in/harindu-lakshan-029343163">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
@@ -20,12 +20,16 @@
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://pufler.dev">
+  <a href="https://twitter.com/HarinduLakshan1">
     <img src="https://img.icons8.com/material/256/000000/twitter.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/julianpufler">
+  <a href="https://stackoverflow.com/users/11058108/harindu-lakshan?tab=profile">
     <img src="https://img.icons8.com/ios-filled/256/000000/stackoverflow.svg" width="26px"/>
+  </a>
+    &emsp;
+  <a href="https://stackoverflow.com/users/11058108/harindu-lakshan?tab=profile">
+    <img src="https://img.icons8.com/ios-filled/256/000000/mozilla.svg" width="26px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
