@@ -24,12 +24,12 @@
     <img src="https://img.icons8.com/material/256/000000/twitter.png" width="28px"/>
   </a>
   &emsp;
+  <a href="https://community.mozilla.org/en/people/harindu973/">
+    <img src="https://img.icons8.com/ios-filled/256/000000/firefox.svg" width="26px"/>
+  </a>
+  &emsp;
   <a href="https://stackoverflow.com/users/11058108/harindu-lakshan?tab=profile">
     <img src="https://img.icons8.com/ios-filled/256/000000/stackoverflow.svg" width="26px"/>
-  </a>
-    &emsp;
-  <a href="https://stackoverflow.com/users/11058108/harindu-lakshan?tab=profile">
-    <img src="https://img.icons8.com/ios-filled/256/000000/firefox.svg" width="26px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
