@@ -29,7 +29,7 @@
   </a>
     &emsp;
   <a href="https://stackoverflow.com/users/11058108/harindu-lakshan?tab=profile">
-    <img src="https://img.icons8.com/ios-filled/256/000000/mozilla.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/000000/firefox.svg" width="26px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
