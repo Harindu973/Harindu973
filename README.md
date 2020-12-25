@@ -51,8 +51,5 @@
   </a>
 </p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Harindu973&show_icons=true"
-        alt="Harindu973" />
-
 
  
