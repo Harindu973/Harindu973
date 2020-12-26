@@ -1,4 +1,4 @@
-<div style="background-color: #eee;">
+<div style="background-color: blue;">
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harindu973&color=brightgreen" alt="Harindu973" /> </p>
 
