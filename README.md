@@ -1,3 +1,4 @@
+<div style="background-color: #eee;">
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harindu973&color=brightgreen" alt="Harindu973" /> </p>
 
@@ -47,6 +48,6 @@
     <img src="https://badges.pufler.dev/commits/monthly/harindu973?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
+</div>
 
  
