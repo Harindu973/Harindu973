@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/harindu-lakshan-029343163">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/252653/linkedin.svg" width="26px"/>
   </a>
   &emsp;
     <a href="https://www.facebook.com/harindu.lakshan.3">
