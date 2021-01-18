@@ -43,7 +43,4 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/harindu973?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/harindu973?style=flat-square&color=black&logo=github">
-  </a>
 </p>
