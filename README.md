@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harindu973&color=brightgreen" alt="Harindu973" /> </p>
 
 <p align="center">
-  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+  <a href="https://github.com/Harindu973" class="rich-diff-level-one">
     <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Harindu973&title_color=333&text_color=777" alt="Harindu's Stats" >
   </a>
 </p>
